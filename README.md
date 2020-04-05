@@ -1,6 +1,8 @@
 # Dotnet Interactive Docker
 Runs the dotnet-interactive in a docker container so it can be easily shared.
 
+YOu can also use the provided `Dockerfile` in https://github.com/dotnet/interactive/tree/master/docker-image to use instead of this (which might be wiser:-)).
+
 ## How to use
 `cd {your workspace}/dotnet-try-container`
 
